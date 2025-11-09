@@ -1,7 +1,7 @@
-requirement of project :-
+**requirement of project**
     1. To run the project you need to register on binance and then generate a api key and secret key for future testnet apis
 
-how to run a project
+**how to run a project**
     1. first clone this project and create a virtual environment and activate the virtualenv
     2. after activating the virtual environment install all the requirements in the requirements.txt file
     3. create a .env file in the same directory inside binance_testnet folder and then copy the key names from the env.example file and put your own api key and secret key
